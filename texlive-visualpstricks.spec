@@ -1,6 +1,6 @@
 Name:		texlive-visualpstricks
 Version:	39799
-Release:	1
+Release:	2
 Summary:	Visual help for PSTricks based on images with minimum text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/visualpstricks
